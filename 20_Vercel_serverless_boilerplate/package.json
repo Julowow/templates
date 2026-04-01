@@ -1,0 +1,11 @@
+{
+  "name": "my-serverless-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Vercel serverless API — zero dependencies",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
